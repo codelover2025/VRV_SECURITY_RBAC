@@ -2,6 +2,9 @@
 
 A responsive and dynamic user interface for Role-Based Access Control (RBAC) designed using React, TypeScript, and Tailwind CSS.
 
+## Deployed Link
+https://vrv-security-rbac.vercel.app/
+
 ## 🌟 Core Features
 
 ### Manage Users
